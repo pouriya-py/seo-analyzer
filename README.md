@@ -13,6 +13,11 @@
 
 </div>
 
+### Console Output
+![Console Output](docs/console-output.png)
+
+### HTML Report
+![HTML Report](docs/html-report.gif)
 ---
 
 ## 📖 Overview
